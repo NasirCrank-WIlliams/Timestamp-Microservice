@@ -12,7 +12,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example usage:
 * GET [project url]/api/timestamp/2015-12-25
-* GET project url]/api/timestamp/1450137600
+* GET [project url]/api/timestamp/1450137600
 #### Example output:
 * { "unix": 1450137600, "natural": "December 15, 2015" }
 
